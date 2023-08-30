@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AiXueXiDeYebao  `"爱学习的烨宝"`
 - 👀 I’m interested in C⚡O⚡D⚡I⚡N⚡G⚡
 - 🌱 I’m currently learning C++Qt
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 👉 `y-cao21@mails.tsinghua.edu.cn`
 
 <!---

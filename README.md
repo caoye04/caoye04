@@ -2,6 +2,7 @@
 #  👋
 
 💬 I’m buzy and lazy ^^
+😘 Can you give me stars 😔
 
 
 <!-- snake -->

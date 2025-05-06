@@ -4,7 +4,7 @@
 
 ## :man_student: I'm a Software Engineering Student  
 
-💬 I’m buzy and lazy recently
+💬 I'm buzy and lazy recently
 
 😘 Can you give me stars
 

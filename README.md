@@ -1,4 +1,4 @@
-#  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px"> Oi there, I'm Caoye
+#  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Oi there, I'm Caoye
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 

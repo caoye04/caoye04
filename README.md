@@ -10,7 +10,7 @@
 
 
 
-## :eyes: ​Visitor's count 
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> ​Visitor's count 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{caoye04}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 

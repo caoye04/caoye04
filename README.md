@@ -1,7 +1,7 @@
 
 #  👋
 
-💬 I’m Buzzzzzzzzzzzzzzzzy
+💬 I’m buzy and lazy ^^
 
 
 <!-- snake -->

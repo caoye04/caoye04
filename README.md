@@ -10,12 +10,6 @@
 
 
 
-## :eyes: ​Visitor's count 
-
-<p align="center"><img src="https://profile-counter.glitch.me/{caoye04}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-
-
 ## :snake: ​eat commits Snake
 
 ![snake](https://raw.githubusercontent.com/caoye04/caoye04/output/github-contribution-grid-snake.svg)

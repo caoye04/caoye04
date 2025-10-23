@@ -19,10 +19,3 @@
 ## :star2: github stats
 
  ![caoye04's GitHub stats](https://github-readme-stats.vercel.app/api?username=caoye04&count_private=true&show_icons=true)
-
-
-
-## :computer: Used languages
-
- ![caoye :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoye04&langs_count=6&theme=tokyo&layout=donut)
-
